@@ -1,0 +1,8 @@
+{
+	"alexaSkill": {
+		"nlu": {
+			"name": "alexa"
+		}
+	},
+	"endpoint": "arn:aws:lambda:us-east-1:944046610034:function:hp-daily-quiz"
+}
